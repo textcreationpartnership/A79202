@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beginning, progresse, and conclusion of the late troubles in France &amp;c. Faithfully observed, and written from a gentleman now in Paris, to a person of honour in this kingdome. Dated at Paris March 23. 1649.</title>
+            <author>F. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79202</idno>
+            <idno type="STC">Wing C30</idno>
+            <idno type="STC">Thomason E548_15</idno>
+            <idno type="STC">ESTC R205574</idno>
+            <idno type="EEBO-CITATION">99864919</idno>
+            <idno type="PROQUEST">99864919</idno>
+            <idno type="VID">164989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164989)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beginning, progresse, and conclusion of the late troubles in France &amp;c. Faithfully observed, and written from a gentleman now in Paris, to a person of honour in this kingdome. Dated at Paris March 23. 1649.</title>
+                  <author>F. C.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: F.C.</note>
+                  <note>Annotation on Thomason copy: "March. 22 1648.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164989:1" rendition="simple:additions"/>
+            <p>THE Beginning, Progreſſe, and Concluſion of the late Troubles in FRANCE &amp;c. Faithfully obſerved, and written from a Gentleman now in <hi>PARIS,</hi> To a Perſon of Honour in this Kingdome.</p>
+            <p>
+               <hi>Dated at</hi> Paris <hi>March</hi> 23. 1649.</p>
+            <p>
+               <hi>LONDON</hi> Printed in the Year. 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:164989:2"/>
+            <pb n="1" facs="tcp:164989:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat you may be a little more aſſured of the verity of what follows in this Paper: know, That the Gentleman that writ this, is a man of that quality, that as he hath been conſtantly in an eminent ci<g ref="char:EOLhyphen"/>vill imployment in <hi>Paris,</hi> ſo he hath had (during theſe troubles) frequent acceſſe to the Court at St. <hi>Jermains,</hi> and beene converſant with moſt of the Counſellors of State, both there, and the Parliament at <hi>Paris.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:164989:3"/>
+            <head>THE <hi>Beginning, Progreſſe, and Concluſion of the late Troubles in</hi> FRANCE.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Beleeve I have loſt three or four letters that I ſent you in the beginning of theſe troubles and I am like to be at a greater loſſe by not receiving your anſwers to them: But I ſhall deſire you by the next Poſt to ſend me an abſtract of yours, that I may underſtand whither they containe any thing ſo neceſſary, as will conſtrain me to inquire after them at St. <hi>Jermins.</hi> I will take no notice of the laſt acti<g ref="char:EOLhyphen"/>ons in <hi>England,</hi> nor tell you how impatiently they are ſupported here, and every where, as farre as the correſpondence of this place can reach: but you ſhall obſerve in <hi>France</hi> the greateſt cure of the moſt deſpe<g ref="char:EOLhyphen"/>rate diſeaſes, that perhaps is mentioned in ſtory.</p>
+            <p>The Prince of <hi>Condy</hi> had beſeidged this City with his owne Army, the chiefe of that drawn out of <hi>Ca<g ref="char:EOLhyphen"/>talonia,</hi> that out of <hi>Italy,</hi> and ſome Troopes out of <hi>Germainy.</hi> The Parliament of this City had raiſed 14000 Mercinaries, and had 10000 Burgois, ever at<g ref="char:EOLhyphen"/>tending extraordinary Convoys. Duke <hi>Longivile</hi> was marching with 8000 Mercinaries from <hi>Rovin,</hi> an Ar<g ref="char:EOLhyphen"/>my in <hi>Britaine,</hi> and another (though very ſmall) in Province: The Arch Duke <hi>Leopold,</hi> and Duke of <hi>Lo<g ref="char:EOLhyphen"/>raine</hi> entred into <hi>France,</hi> and Marſhall <hi>de Turin</hi> come out of <hi>Germany,</hi> (and after many Letters of promiſed Loyalty to the King, Cardinall and Prince of <hi>Condy</hi>) declared for the Parliament: This warre continued
+<pb n="3" facs="tcp:164989:3"/>very hot during this Seidge: wherein the <hi>Pariſians</hi> were continually beaten from their Convoyes, by the P. of <hi>Condy,</hi> and D. <hi>Longevile</hi> as often defeated by the Count <hi>de Harcourt;</hi> and at laſt (which gives to be of grea<g ref="char:EOLhyphen"/>teſt importance) Count <hi>Erlock</hi> (<hi>Turin</hi> being declared Traytor at S. <hi>Germans</hi>) wrought ſo with the Officers of that <hi>Germain</hi> Army, that the Marſhal was glad to eſcape with fifty of his own Guard: Theſe ſucceſſes you might imagine would humble the <hi>Pariſians</hi> into a Treaty, but it was more occaſioned by thoſe obſervations the Par<g ref="char:EOLhyphen"/>liament here, and elſewhere made of the people and their Generalls: For three times they have been rea<g ref="char:EOLhyphen"/>dy to revolt, and teare them out of their Robes, the Burgois have been jealous, and both Burgois and Par<g ref="char:EOLhyphen"/>liament jealous of the Princes their Generalls; who now have onely the popular voyce. But thoſe Prin<g ref="char:EOLhyphen"/>ces, and Parliament, that began this War by the ex<g ref="char:EOLhyphen"/>ample of <hi>England,</hi> did miſtake the conſtitution of their owne Nation, or did not obſerve the conſtitution of ours.</p>
+            <p>For ours are more open handed, and more apt to disburſe franckly towards the maintenance of their wills, and (as they are more fluingly flegmatick) more conſtant to their affections, or hatred than the French, for here the people have ſhifted four times their Favorites; and when they came to leavy mo<g ref="char:EOLhyphen"/>nies, (though in a ſmall proportion) the Parliament found more Enemies, and fiercer within the walls, then abroad: Thus ſeverall cauſes hath begot this Treaty, ſo much unexpected by the world, and fi<g ref="char:EOLhyphen"/>niſhed by the Deputies in two daies, with all perfect<g ref="char:EOLhyphen"/>ings of hands, and Seals thoſe Deputies being Ple<g ref="char:EOLhyphen"/>nipotentiaries.</p>
+            <pb n="4" facs="tcp:164989:4"/>
+            <p>But thoſe Articles they brought from Court were as honourable, and as ſolidly eſſentiall for the Crown as could be wiſhed, and ſuch as left the revolted Prin<g ref="char:EOLhyphen"/>ces, and Generalls in their firſt condition, without a<g ref="char:EOLhyphen"/>ny reward for raiſing this ſtorme; which they knew by ſecret intelligence from Court, before the Depu<g ref="char:EOLhyphen"/>ties brought them to the Seſſions at the Pallace.</p>
+            <p>Therefore the Princes raiſed the people into ſuch a Fury as they aſſembled like a whole Nation about the <hi>Hoſtell Devile;</hi> and meeting the Parliament de<g ref="char:EOLhyphen"/>nied the peace, and were ready to ſacrifice them, if the <hi>Burgois</hi> had not come in a ſtrong body to their reſcue; and all this Tumult was begotten by the ſpe<g ref="char:EOLhyphen"/>cious advantages the Princes have againſt the Court for the protection of <hi>Mazarine,</hi> whom the Prince of <hi>Condy</hi> preſerves and defends in his firſt condition, and would not ſuffer the Articles to paſſe unleſſe the Car<g ref="char:EOLhyphen"/>dinall ſigned them.</p>
+            <p>
+               <hi>Munday</hi> the 14. from 6. in the Morning, till 6. at Night, the debate held; the Princes and their Con<g ref="char:EOLhyphen"/>federates moved to have the Articles burnt by the hand of the Hangman, becauſe the Cardinalls hand was to them, but that would not be admitted; then it was propounded, not to accept of them, and to ſend downe for new conditions; but at laſt it was concluded (the <hi>Burgois</hi> awing the people without, which fomented the choler within) that the Articles ſhould be accepted, and onely by the ſame Deputies, the Queen ſhould be humbly requeſted to moderate two of them, one concerning the <hi>lict de Juſtice</hi> to be kept at St. <hi>Germains;</hi> the other concerning the Par<g ref="char:EOLhyphen"/>liaments not aſſembling during this year 49. but it was
+<pb n="5" facs="tcp:164989:4"/>likewiſe concluded, that though the Queen did not conſent to that moderation that they ſhould ſigne the peace, and the Princes and Generalls are obliged to accept of ſuch Conditions as the ſaid Deputies can procure for them: Duke <hi>Longivile</hi>) who hath al<g ref="char:EOLhyphen"/>ready united himſelfe by a civill Meſſage to the Prince of <hi>Condy</hi>) is included in this peace, and the City of <hi>Rovy,</hi> if they ſigne it in ten dayes, and ſo is Brittaine, and Provance, if they ſigne it in twenty; and the chiefe of the Articles conſented to by both ſides, is that ſome choſen from the Deputies of <hi>Paris,</hi> ſhall immediately accompany the Ambaſſadours of the Court for the generall Peace.</p>
+            <p>Now, Sir, I muſt tell you, my opinion is, that it is happy for the Crowne, that they had this Civill War, becauſe the Parliament and Princes have gained ſo much experience from it, as gives them a perfect knowledge of the inconſtancy of the people, and of one another, and of ſuch parſimony in the natures of all as cannot give them any courage to a new undertaking; and it is well their humours are found out, and purged, whilſt ſo excellent a Phyſi<g ref="char:EOLhyphen"/>tian as the Prince of <hi>Condy</hi> was extant; who is a true State Phyſitian, and gives violent Medicines. I am weary, and</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt humble faithfull Servant, <hi>F. C.</hi>
+               </signed>
+               <dateline>
+                  <hi>Paris</hi>
+                  <date>23. <hi>March,</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
